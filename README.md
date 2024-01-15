@@ -26,9 +26,7 @@ Top ranked OpenAI GPTs 2024
     - Research Assistant: Assists in researching and summarizing key findings from multiple sources. [Link](https://chat.openai.com/g/g-EnsUQTqbq-research-assistant)
 4. **Productivity and Time Management Tools**
     
-    - Time Tracker Pro: Expert in time management, helping improve productivity. [Link]([https://chat.openai.com/g/g-rt](https://chat.openai.com/g/g-rt)
-
-Rx5kR4I-time-tracker-pro)
+    - Time Tracker Pro: Expert in time management, helping improve productivity. [Link]([https://chat.openai.com/g/g-rt](https://chat.openai.com/g/g-rtRx5kR4I-time-tracker-pro)
 
 - Idea Architect: Assists in brainstorming and mind mapping. [Link](https://chat.openai.com/g/g-Dy0KcipxT-idea-architect)
 - Report Assistant: Efficient report analyst for business reporting. [Link](https://chat.openai.com/g/g-XUo9XIeHZ-report-assistant)
