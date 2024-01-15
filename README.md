@@ -1,7 +1,8 @@
 # BestGPTs2024
-Top ranked OpenAI GPTs 2024
 
-    - سيو صح: SEO content analysis expert offering comprehensive feedback and practical insights. [Link](https://chat.openai.com/g/g-PKIRrZoi4-syw-sh)
+Top ranked OpenAI GPTs 2024
+1. **Content and SEO Analysis Tools**
+
     - SEO Wächter: Specialist in SEO content analysis and optimization. [Link](https://chat.openai.com/g/g-iyhgJiAZc-seo-wachter)
     - SEO Article Writer: Specialized in SEO Article Writing and Personalized Meal Planning. [Link](https://chat.openai.com/g/g-RSCgyBajq-seo-article-writer)
     - SEO Keyword Researcher: Generates SEO keyword ideas and crafts SEO-optimized content. [Link](https://chat.openai.com/g/g-HdMG3Uq7D-seo-keyword-researcher)
